@@ -1,8 +1,4 @@
-تمام 👍
-ده **نص جاهز Copy–Paste** تحطه مباشرة في **README.md** على GitHub
-من غير أي كلام زيادة.
 
----
 
 # Adidas Strategic Roadmap for Growth Dashboard
 
@@ -104,12 +100,3 @@ The dashboard supports interactive filtering by:
 
 This dashboard provides a comprehensive view of Adidas sales and profitability performance and can be used to support strategic planning and business growth decisions.
 
----
-
-لو حابب أعمله:
-
-* أقصر شوية
-* أو أقوى Business Language
-* أو مخصص لوظيفة Data Analyst / Business Analyst
-
-قولّي بس 👌
